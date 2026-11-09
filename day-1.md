@@ -1,4 +1,5 @@
 # Ежедневное обучение
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="120" align="right">
 ## День 1 
 Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
 
